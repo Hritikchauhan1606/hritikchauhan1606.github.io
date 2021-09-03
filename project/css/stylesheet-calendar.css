@@ -79,6 +79,7 @@ h1{
     height: 43px;
     background-color: #e6e6ff;
     font-size: 10px;
+     z-index:1;
 }
 
     .meeting-1 h4 {
@@ -99,5 +100,6 @@ h1{
     height: 70px;
     background-color: #e6e6ff;
     font-size: 10px;
+    z-index:1;
 }
 
