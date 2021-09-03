@@ -60,12 +60,12 @@ hr{
 .add-team-btn:hover {
     background-color: #8ad0db;
     color:white;
-    transition:color .4s;
-    transition:background-color .5s;
+    transition:color 1s;
+    transition:background-color 1s;
 }
 .add-team-btn:active{
     color:grey;
-    box-shadow:3px 3px dimgrey;
+    border: 3px solid #3d8f9c;
 }
 
 .bold-text{
