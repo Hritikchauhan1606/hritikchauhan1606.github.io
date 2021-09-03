@@ -61,6 +61,10 @@ hr{
     transition:color .4s;
     transition:background-color .5s;
 }
+.add-team-btn:active{
+    color:black;
+    box-shadow:5px 5px black;
+}
 
 .bold-text{
     font-weight:bold;
