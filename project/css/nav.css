@@ -78,7 +78,8 @@ hr {
     }
 
     .topnav.responsive {
-        position: relative;
+        position: fixed;
+        z-index:2;
     }
 
         .topnav.responsive .icon {
