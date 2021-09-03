@@ -25,6 +25,9 @@ hr{
     margin:25px 25px 25px 25px;
     float:left;
 }
+.team:hover{
+    border:#3d8f9c solid 1px;
+}
 .excuse-btn {
     color: white;
     background-color: #d94a4a;
