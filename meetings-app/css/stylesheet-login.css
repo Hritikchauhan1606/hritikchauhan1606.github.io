@@ -84,5 +84,5 @@ h1 {
         transition:color 1s;
     }
     .btn:active{
-        box-shadow:2px 2px grey ;
+        color:black ;
     }
